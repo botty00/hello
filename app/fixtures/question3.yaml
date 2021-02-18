@@ -52,7 +52,7 @@
   fields: 
     question: "wakutaは水溜りボンドの動画に出演したことがある。"
     answer: true
-    comment: "正解は〇！。wakutaさんは水溜りボンドさんの動画に2回出演したことがあります。" 
+    comment: "正解は〇！wakutaさんは水溜りボンドさんの動画に2回出演したことがあります。" 
 
 - model: app.Question_model3
   pk: 9
